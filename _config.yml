@@ -7,7 +7,7 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
-title: Chirpy                          # the main title
+title: gustomsh                   # the main title
 
 tagline: A text-focused Jekyll theme.  # it will display as the sub-title
 
@@ -19,7 +19,7 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: ''
 
-author: your_full_name                  # change to your full name
+author: Gustom Saras Habi                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
