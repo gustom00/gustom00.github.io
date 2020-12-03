@@ -11,9 +11,8 @@ title: gustomsh                   # the main title
 
 tagline: gk jelas  # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  gustomsh adalah blog yang berisi bacotan gk jelas dan tidak bermutu
-
+description: > -gustomsh adalah blog yang berisi bacotan gk jelas dan tidak bermutu
+                   # used by seo meta and the atom fee
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: ''
 
